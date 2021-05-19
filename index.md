@@ -5,7 +5,6 @@ nav:
     toggle: Toggle navigation
     encryption: Encryption
     decryption: Decryption
-{::comment}    about: About {:/comment}
 
 label:
     info: Info
