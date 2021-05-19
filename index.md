@@ -5,7 +5,7 @@ nav:
     toggle: Toggle navigation
     encryption: Encryption
     decryption: Decryption
-         about: About
+    about: About
 
 label:
     info: Info
