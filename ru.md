@@ -4,7 +4,7 @@ title: WebCrypt &mdash; Шифрування повідомлень онлайн
 nav:
     toggle: Сховати/Показати навігацію
     encryption: Шифрування
-    decryption: РОзшифрування
+    decryption: Розшифрування
     about: Про проєкт
 label:
     info: Підказка
@@ -15,12 +15,12 @@ placeholder:
 
 encrypt:
     title: Шифровання
-    placeholder: Повідомлення для шифрования
+    placeholder: Повідомлення для шифрування
     weak: Слабкий
     mediocre: Нормальний
     strong: Сильний
     button: Зашифрувати
-    hint: Підказка гасла
+    hint: Підказка гасла (паролю)
     config:
         add_hint: Додати підказку для гасла
         remove_hint: Видалити підказку для гасла
