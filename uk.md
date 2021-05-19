@@ -9,7 +9,7 @@ nav:
 label:
     info: Підказка
 button:
-    encrypt_new: Зашифрувати новое повідомленя
+    encrypt_new: Зашифрувати нове повідомлення
 placeholder:
     password: Гасло (пароль)
 
