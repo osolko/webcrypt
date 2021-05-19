@@ -5,7 +5,7 @@ nav:
     toggle: Toggle navigation
     encryption: Encryption
     decryption: Decryption
-    about: About
+#    about: About
 label:
     info: Info
 button:
@@ -52,7 +52,7 @@ config:
     save: Save
     reset: Reset
 
-<!-- 
+
 about:
     title: About WebCrypt
     body: |
@@ -72,7 +72,7 @@ about:
             Library</a>
             and hosted on <a href="https://github.com/elfet/webcrypt">GitHub</a> Pages.
         </p>
--->
+
 info:
     features:
         open_source: Open Source
