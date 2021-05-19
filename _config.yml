@@ -1,6 +1,6 @@
 baseurl: https://osolko.github.io/webcrypt-fork/
+theme: jekyll-theme-hacker
 markdown: kramdown
 
 
 
-theme: jekyll-theme-hacker
